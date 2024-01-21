@@ -2,7 +2,7 @@
   "name": "com.tityx.tweens",
   "version": "1.0.0",
   "displayName": "Tweens",
-  "description": "Tweens for animation\n\nDependencies:\r\nhttps://github.com/Demigiant/dotween.git",
+  "description": "Tweens for animation\n\nDependencies:\r\nhttps://github.com/Demigiant/dotween.git\n\nThe DOTween package with asmdef is attached to the release notes",
   "unity": "2019.1",
   "documentationUrl": "https://example.com/",
   "changelogUrl": "https://example.com/changelog.html",
