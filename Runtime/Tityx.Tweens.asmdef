@@ -1,0 +1,17 @@
+{
+    "name": "Tityx.Tweens",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b61efa38a37677648bc37b85deafb634",
+        "GUID:8f025ce38de356148b3c49ef34154af2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
